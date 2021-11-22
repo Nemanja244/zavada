@@ -14,3 +14,10 @@ treba da se doda:
 - ime likova ide u sredini stranice
 - all rights reserved logo na kraju u sredini stranice
 - writter and associate na kraju
+
+~~~
+verzija 1.2
+
+- ispravljen tekst
+- ispravljen kod
+- ispravljen ON
