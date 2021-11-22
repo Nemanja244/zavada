@@ -11,4 +11,6 @@ dodato:
 
 treba da se doda:
 - centar u tekstu
-- ime like ide u sredini stranice
+- ime likova ide u sredini stranice
+- all rights reserved logo na kraju u sredini stranice
+- writter and associate na kraju
